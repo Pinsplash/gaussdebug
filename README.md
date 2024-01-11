@@ -1,3 +1,13 @@
+This mod gives useful information about the Half-Life Tau Cannon (Gauss Gun). It was used extensively in the making of and featured briefly in this video https://www.youtube.com/watch?v=xmv_4XxzeFs
+
+The main files to check are gauss.cpp and ev_hldm.cpp.
+
+Turn on developer 1 to see console text.
+
+Visualization is not ideal. The beam is not always consistent with reality, so you may need to open Half-Life: Source and copy coordinates into a drawline command.
+
+If it doesn't work, good luck.
+
 Half Life 1 SDK LICENSE
 ======================
 
